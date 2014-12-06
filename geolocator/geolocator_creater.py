@@ -8,12 +8,16 @@ neighborhoods = ['']
 
 # get all the different unqiue neighborhoods and save it in a list
 
-with open('new_trip_data_1_5.csv', 'r') as csvin:
+read = 'new_trip_data_1_1.csv'
+write = 'geolocator_data.csv'
+
+with open(read, 'r') as csvin:
 		reader = csv.DictReader(csvin)
 
 		for row in reader:
 			found = False
 			for hood in neighborhoods:
+				
 				if hood == row['dropoff_neighborhood']:
 					found = True					
 					break
@@ -28,7 +32,6 @@ latitudes	  = []
 counts        = []
 
 
-
 for index in range(len(neighborhoods)):
 	longitudes.append(float(0))
 	latitudes.append(float(0))
@@ -36,8 +39,10 @@ for index in range(len(neighborhoods)):
 
 #calculate all the average x and y
 
-with open('new_trip_data_1_5.csv', 'r') as csvin:
-	with open('geolocator_data.csv', 'w') as csvout:
+
+
+with open(read, 'r') as csvin:
+	with open(write, 'w') as csvout:
 		reader = csv.DictReader(csvin)
 		fieldnames=['neighborhood','longitude','latitude']
 		writer = csv.DictWriter(csvout, fieldnames=fieldnames, delimiter=',')
@@ -49,7 +54,15 @@ with open('new_trip_data_1_5.csv', 'r') as csvin:
 			latitude  = float(row['dropoff_latitude'])
 			hood      = row['dropoff_neighborhood']
 			
-			i = neighborhoods.index(hood)
+
+			try:
+				i = neighborhoods.index(hood)
+			except ValueError:
+				print(i)
+				print(neighborhoods[i])
+				print(hood)
+				continue
+			
 
 			if counts[i] == 0:
 				longitudes[i] = longitude
@@ -67,9 +80,7 @@ with open('new_trip_data_1_5.csv', 'r') as csvin:
 			la = latitudes[i]
 			writer.writerow({'neighborhood': n,'longitude':lo,'latitude':la})
 
-print (counts)
-print (latitudes)
-print (longitudes)
+
 
 
 
