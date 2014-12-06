@@ -1,0 +1,15 @@
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js">
+</script> 
+<script> jQuery(document).ready(function($) { 
+	$.ajax({ 
+		url : "http://api.wunderground.com/api/757daef57a232fe7/geolookup/conditions/history_20130101/q/NY/New_York_City.json", 
+		dataType : "jsonp", 
+		success : function(parsed_json) {
+			var location = parsed_json['location']['city']; 
+			var meantemp = parsed_json['history']['dailysummary'][0].meantempi;
+			alert("1/1/13 mean temperature in " + location + " is: " + meantemp);
+			console.log(parsed_json);
+		}
+	}); 
+}); 
+</script>
