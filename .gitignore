@@ -1,9 +1,4 @@
-trip_data_1.csv
-trip_fare_1.csv
-merged_data_1.csv
-trip_data_with_geo_1.csv
-trip_fare_1.csv
-trip_data_with_geo_2.csv
-trip_fare_2.csv
-
-
+trip_data_*.csv
+trip_fare_*.csv
+merged_data_*.csv
+trip_data_with_geo_*.csv
