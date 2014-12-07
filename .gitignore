@@ -2,3 +2,4 @@ trip_data_*.csv
 trip_fare_*.csv
 merged_data_*.csv
 trip_data_with_geo_*.csv
+fare_data_*.csv
