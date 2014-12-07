@@ -51,6 +51,6 @@ with open('trip_data_1.csv', 'r') as csvin, \
 
 			if 'pickup_datetime' in row:
 				row['pickup_hour'] = row['pickup_datetime'].split(' ')[1].split(':')[0]
-			if 'dropof_datetime' in row:
+			if 'dropoff_datetime' in row:
 				row['dropoff_hour'] = row['dropoff_datetime'].split(' ')[1].split(':')[0]
 			writer.writerow(row)
