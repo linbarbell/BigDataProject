@@ -5,7 +5,7 @@ def distance(x1,y1,x2,y2):
 	dist = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
 	return dist
 
-with open('trip_data_example.csv', 'r') as csvin, \
+with open('trip_data_1.csv', 'r') as csvin, \
 	 open('trip_data_example3.csv', 'w') as csvout:
 		reader = csv.DictReader(csvin)
 		fieldnames=['medallion','hack_license','vendor_id','rate_code', \
