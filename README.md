@@ -1,13 +1,21 @@
 
-#Computing w/ Large Data Sets - NYU Courant Institute - Fall 2014
+#A Look at NYC Taxi Data and How We Tip
 
-A Look at NYC Taxi Data and How We Tip
+<h3>Computing w/ Large Data Sets - NYU Courant Institute - Fall 2014</h3>
 
 <b>Project By:</b>
 
 - Lin, Emily  
 - Liu, Thomas  
 - Shaw Susanto, Billy
+
+<b>Main Tools</b>
+
+- Python (main language)
+- iPython Notebook (main platform)
+- GeoPy (for reverse geocoding)
+- Pandas (for data analysis)
+- Tableau (for data visualization)
 
 <h3><u>Data</u></h3>
 This project uses data by <a href="http://chriswhong.com/open-data/foil_nyc_taxi/">Chris Whong</a>, who has
