@@ -33,9 +33,9 @@ We sampled about 75 million rides (>= 30GB) to make the following analysis.
   - Which neighborhood takes the cab the most (pickup): 1) List of top 10 2) Pie Chart - "top neighborhood.csv"
   - Which is the most popular neighborhood for cab rides (dropoff) 1) List of top 10 2) Pie - chart - "top_drop_neighborhood.csv"
   - At which time do New Yorkers take cab ride the most? 1) List of percentage 2) Bar chart - "count_by_hour.csv"
-  - At which time do New Yorkers take cab rides the least? 
-  - Which time has the lowest avg speed (distance/ time travelled) 
-  - Which time has the highest avg speed (distance/ time travelled) 
+  - At which time do New Yorkers take cab rides the least? - "count_by_hour.csv"
+  - Which time has the lowest avg speed (distance/ time travelled) - "time_speed.csv"
+  - Which time has the highest avg speed (distance/ time travelled) - "time_speed.csv" 
   
 <b>Payments & Tip </b>
 
