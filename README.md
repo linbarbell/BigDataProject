@@ -30,7 +30,7 @@ We sampled about 75 million rides (>= 30GB) to make the following analysis.
 
 <b>Basic Information</b>
 
-  - Which neighborhood takes the cab the most (pickup)  
+  - Which neighborhood takes the cab the most (pickup): 1) List of top 10 2) Pie Chart - "top neighborhood.csv"
   - Which is the most popular neighborhood for cab rides (dropoff) 
   - At which time do New Yorkers take cab ride the most? 
   - At which time do New Yorkers take cab rides the least? 
