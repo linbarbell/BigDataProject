@@ -1,0 +1,1036 @@
+neighborhood,payment,number
+Adelphi,CRD,12808
+Adelphi,CSH,9116
+Adelphi,DIS,25
+Adelphi,NOC,59
+Adelphi,UNK,5
+Alphabet City,CRD,47960
+Alphabet City,CSH,37708
+Alphabet City,DIS,75
+Alphabet City,NOC,181
+Alphabet City,UNK,18
+Annadale,CRD,112
+Annadale,CSH,85
+Arrochar,CRD,276
+Arrochar,CSH,123
+Arrochar,NOC,2
+Astoria,CRD,26681
+Astoria,CSH,29606
+Astoria,DIS,72
+Astoria,NOC,234
+Astoria,UNK,13
+Bath Beach,CRD,611
+Bath Beach,CSH,633
+Bath Beach,DIS,1
+Bath Beach,NOC,13
+Battery Park City,CRD,92600
+Battery Park City,CSH,71293
+Battery Park City,DIS,130
+Battery Park City,NOC,364
+Battery Park City,UNK,74
+Bay Ridge,CRD,3965
+Bay Ridge,CSH,3768
+Bay Ridge,DIS,26
+Bay Ridge,NOC,37
+Bay Ridge,UNK,5
+Bay Terrace,CRD,73
+Bay Terrace,CSH,47
+Baychester,CRD,352
+Baychester,CSH,311
+Baychester,NOC,7
+Baychester Houses,CRD,128
+Baychester Houses,CSH,206
+Baychester Houses,NOC,1
+Bayside,CRD,961
+Bayside,CSH,1179
+Bayside,DIS,5
+Bayside,NOC,9
+Bayside,UNK,1
+Bedford Park,CRD,618
+Bedford Park,CSH,1021
+Bedford Park,DIS,5
+Bedford Park,NOC,15
+Bedford-Stuyvesant,CRD,8295
+Bedford-Stuyvesant,CSH,8836
+Bedford-Stuyvesant,DIS,32
+Bedford-Stuyvesant,NOC,91
+Bedford-Stuyvesant,UNK,1
+Beechhurst,CRD,429
+Beechhurst,CSH,576
+Beechhurst,DIS,2
+Beechhurst,NOC,6
+Bellaire,CRD,143
+Bellaire,CSH,350
+Bellaire,DIS,1
+Bellaire,NOC,5
+Belmont,CRD,723
+Belmont,CSH,971
+Belmont,DIS,1
+Belmont,NOC,9
+Belmont,UNK,1
+Bensonhurst,CRD,983
+Bensonhurst,CSH,1106
+Bensonhurst,DIS,6
+Bensonhurst,NOC,20
+Bergen Beach,CRD,318
+Bergen Beach,CSH,512
+Bergen Beach,DIS,1
+Bergen Beach,NOC,4
+Bergen Beach,UNK,1
+Blissville,CRD,1764
+Blissville,CSH,2082
+Blissville,DIS,6
+Blissville,NOC,28
+Blissville,UNK,2
+Boerum Hill,CRD,5145
+Boerum Hill,CSH,3754
+Boerum Hill,DIS,16
+Boerum Hill,NOC,38
+Boerum Hill,UNK,1
+Boerum Hill Historic District,CRD,2280
+Boerum Hill Historic District,CSH,1678
+Boerum Hill Historic District,DIS,4
+Boerum Hill Historic District,NOC,40
+Borough Park,CRD,2592
+Borough Park,CSH,3312
+Borough Park,DIS,14
+Borough Park,NOC,38
+Breukelen Houses,CRD,227
+Breukelen Houses,CSH,614
+Breukelen Houses,NOC,8
+Brighton Beach,CRD,756
+Brighton Beach,CSH,1027
+Brighton Beach,DIS,8
+Brighton Beach,NOC,15
+Broad Channel,CRD,17857
+Broad Channel,CSH,10886
+Broad Channel,DIS,78
+Broad Channel,NOC,256
+Broad Channel,UNK,16
+Broadway Junction,CRD,1294
+Broadway Junction,CSH,1842
+Broadway Junction,DIS,8
+Broadway Junction,NOC,22
+Broadway Junction,UNK,1
+Bronxdale,CRD,570
+Bronxdale,CSH,846
+Bronxdale,NOC,4
+Bronxdale,UNK,1
+Brooklyn Heights,CRD,18109
+Brooklyn Heights,CSH,12074
+Brooklyn Heights,DIS,16
+Brooklyn Heights,NOC,62
+Brooklyn Heights,UNK,8
+Brooklyn Manor,CRD,510
+Brooklyn Manor,CSH,1013
+Brooklyn Manor,DIS,1
+Brooklyn Manor,NOC,12
+Brooklyn Manor,UNK,1
+Brooklyn Navy Yard,CRD,5399
+Brooklyn Navy Yard,CSH,4725
+Brooklyn Navy Yard,DIS,13
+Brooklyn Navy Yard,NOC,37
+Brooklyn Navy Yard,UNK,1
+Brownsville,CRD,795
+Brownsville,CSH,1537
+Brownsville,DIS,8
+Brownsville,NOC,92
+Brownsville,UNK,2
+Bushwick,CRD,13371
+Bushwick,CSH,12952
+Bushwick,DIS,47
+Bushwick,NOC,97
+Bushwick,UNK,6
+Cambria Heights,CRD,276
+Cambria Heights,CSH,822
+Cambria Heights,DIS,4
+Cambria Heights,NOC,10
+Canarsie,CRD,367
+Canarsie,CSH,806
+Canarsie,DIS,1
+Canarsie,NOC,3
+Castleton Corners,CRD,152
+Castleton Corners,CSH,97
+Castleton Corners,DIS,1
+Castleton Corners,NOC,1
+Cedar Manor,CRD,121
+Cedar Manor,CSH,399
+Cedar Manor,DIS,1
+Cedar Manor,NOC,6
+Cedar Manor Houses,CRD,3069
+Cedar Manor Houses,CSH,3672
+Cedar Manor Houses,DIS,58
+Cedar Manor Houses,NOC,207
+Cedar Manor Houses,UNK,10
+Charlotte Gardens,CRD,384
+Charlotte Gardens,CSH,889
+Charlotte Gardens,DIS,3
+Charlotte Gardens,NOC,14
+Chelsea,CRD,194702
+Chelsea,CSH,161154
+Chelsea,DIS,249
+Chelsea,NOC,745
+Chelsea,UNK,114
+Chinatown,CRD,26488
+Chinatown,CSH,29454
+Chinatown,DIS,47
+Chinatown,NOC,155
+Chinatown,UNK,14
+City Island,CRD,390
+City Island,CSH,155
+City Island,DIS,5
+City Island,NOC,11
+City Line,CRD,253
+City Line,CSH,647
+City Line,DIS,4
+City Line,NOC,8
+City Line,UNK,1
+Clinton,CRD,122796
+Clinton,CSH,145437
+Clinton,DIS,244
+Clinton,NOC,714
+Clinton,UNK,69
+Clinton Hill,CRD,18231
+Clinton Hill,CSH,12570
+Clinton Hill,DIS,21
+Clinton Hill,NOC,60
+Clinton Hill,UNK,11
+Co-Op City,CRD,269
+Co-Op City,CSH,406
+Co-Op City,DIS,2
+Co-Op City,NOC,3
+Cobble Hill,CRD,7520
+Cobble Hill,CSH,4551
+Cobble Hill,DIS,9
+Cobble Hill,NOC,27
+Cobble Hill,UNK,8
+Cobble Hill Historic District,CRD,10724
+Cobble Hill Historic District,CSH,6856
+Cobble Hill Historic District,DIS,20
+Cobble Hill Historic District,NOC,29
+Cobble Hill Historic District,UNK,8
+Colgate Center,CRD,8672
+Colgate Center,CSH,2108
+Colgate Center,DIS,30
+Colgate Center,NOC,120
+Colgate Center,UNK,7
+College Point,CRD,409
+College Point,CSH,712
+College Point,DIS,1
+College Point,NOC,7
+Columbia Street Waterfront District,CRD,4977
+Columbia Street Waterfront District,CSH,3448
+Columbia Street Waterfront District,DIS,6
+Columbia Street Waterfront District,NOC,21
+Coney Island,CRD,152
+Coney Island,CSH,247
+Coney Island,DIS,3
+Coney Island,NOC,2
+Corona,CRD,1146
+Corona,CSH,5074
+Corona,DIS,14
+Corona,NOC,50
+Corona,UNK,3
+Crown Heights,CRD,9690
+Crown Heights,CSH,8021
+Crown Heights,DIS,26
+Crown Heights,NOC,60
+Crown Heights,UNK,5
+Cypress Hills,CRD,268
+Cypress Hills,CSH,654
+Cypress Hills,DIS,5
+Cypress Hills,NOC,9
+DUMBO,CRD,14673
+DUMBO,CSH,9540
+DUMBO,DIS,30
+DUMBO,NOC,69
+DUMBO,UNK,7
+Diamond District,CRD,522230
+Diamond District,CSH,530485
+Diamond District,DIS,628
+Diamond District,NOC,1646
+Diamond District,UNK,388
+Ditmas Park,CRD,3363
+Ditmas Park,CSH,3322
+Ditmas Park,DIS,11
+Ditmas Park,NOC,34
+Ditmas Park,UNK,3
+Dongan Hills,CRD,37
+Dongan Hills,CSH,44
+Douglaston,CRD,214
+Douglaston,CSH,217
+Douglaston,DIS,3
+Douglaston,NOC,3
+Downtown Brooklyn,CRD,13996
+Downtown Brooklyn,CSH,9793
+Downtown Brooklyn,DIS,31
+Downtown Brooklyn,NOC,81
+Downtown Brooklyn,UNK,11
+Dyker Heights,CRD,892
+Dyker Heights,CSH,906
+Dyker Heights,DIS,4
+Dyker Heights,NOC,4
+East Elmhurst,CRD,51727
+East Elmhurst,CSH,23870
+East Elmhurst,DIS,72
+East Elmhurst,NOC,245
+East Elmhurst,UNK,57
+East Flatbush,CRD,958
+East Flatbush,CSH,1504
+East Flatbush,DIS,7
+East Flatbush,NOC,10
+East Harlem,CRD,57755
+East Harlem,CSH,82222
+East Harlem,DIS,141
+East Harlem,NOC,402
+East Harlem,UNK,22
+East New York,CRD,289
+East New York,CSH,736
+East New York,NOC,6
+East New York,UNK,1
+East Tremont,CRD,323
+East Tremont,CSH,520
+East Tremont,DIS,5
+East Tremont,NOC,6
+East Village,CRD,166745
+East Village,CSH,123432
+East Village,DIS,161
+East Village,NOC,478
+East Village,UNK,91
+Eastchester,CRD,716
+Eastchester,CSH,405
+Eastchester,DIS,6
+Eastchester,NOC,17
+Eastchester,UNK,1
+Eastchester Heights,CRD,88
+Eastchester Heights,CSH,172
+Eastchester Heights,DIS,1
+Eastchester Heights,NOC,5
+Eastchester Houses,CRD,183
+Eastchester Houses,CSH,229
+Eastchester Houses,DIS,3
+Eastchester Houses,NOC,2
+Eastern Parkway,CRD,3022
+Eastern Parkway,CSH,3977
+Eastern Parkway,DIS,24
+Eastern Parkway,NOC,43
+Eastern Parkway,UNK,1
+Edenwald Houses,CRD,206
+Edenwald Houses,CSH,285
+Edenwald Houses,DIS,3
+Edenwald Houses,NOC,3
+Elmhurst,CRD,3306
+Elmhurst,CSH,7552
+Elmhurst,DIS,22
+Elmhurst,NOC,66
+Elmhurst,UNK,1
+Fieldston,CRD,1521
+Fieldston,CSH,1154
+Fieldston,DIS,1
+Fieldston,NOC,9
+Fieldston,UNK,1
+Flatbush,CRD,6089
+Flatbush,CSH,5929
+Flatbush,DIS,31
+Flatbush,NOC,56
+Flatbush,UNK,4
+Flatiron,CRD,270014
+Flatiron,CSH,193861
+Flatiron,DIS,242
+Flatiron,NOC,753
+Flatiron,UNK,200
+Flatlands,CRD,1214
+Flatlands,CSH,1543
+Flatlands,DIS,10
+Flatlands,NOC,15
+Flatlands,UNK,2
+Flushing,CRD,2683
+Flushing,CSH,4881
+Flushing,DIS,22
+Flushing,NOC,56
+Flushing,UNK,4
+Fordham,CRD,587
+Fordham,CSH,1300
+Fordham,DIS,2
+Fordham,NOC,14
+Fordham Hill,CRD,710
+Fordham Hill,CSH,1174
+Fordham Hill,DIS,3
+Fordham Hill,NOC,14
+Forest Hills,CRD,4283
+Forest Hills,CSH,4002
+Forest Hills,DIS,14
+Forest Hills,NOC,29
+Forest Hills,UNK,5
+Forest Hills Gardens,CRD,3086
+Forest Hills Gardens,CSH,2701
+Forest Hills Gardens,DIS,8
+Forest Hills Gardens,NOC,22
+Forest Hills Gardens,UNK,5
+Fort Greene,CRD,14091
+Fort Greene,CSH,9881
+Fort Greene,DIS,17
+Fort Greene,NOC,78
+Fort Greene,UNK,9
+Fort Hamilton,CRD,3563
+Fort Hamilton,CSH,3149
+Fort Hamilton,DIS,13
+Fort Hamilton,NOC,31
+Fort Hamilton,UNK,2
+Fresh Meadows,CRD,1145
+Fresh Meadows,CSH,1853
+Fresh Meadows,DIS,5
+Fresh Meadows,NOC,21
+Fresh Pond,CRD,683
+Fresh Pond,CSH,1257
+Fresh Pond,DIS,4
+Fresh Pond,NOC,12
+Fresh Pond Junction,CRD,439
+Fresh Pond Junction,CSH,888
+Fresh Pond Junction,DIS,3
+Fresh Pond Junction,NOC,4
+Fulton Houses,CRD,289356
+Fulton Houses,CSH,202145
+Fulton Houses,DIS,309
+Fulton Houses,NOC,912
+Fulton Houses,UNK,174
+Gerritsen,CRD,195
+Gerritsen,CSH,278
+Gerritsen,DIS,1
+Gerritsen,NOC,1
+Gerritsen,UNK,1
+Glen Oaks,CRD,2220
+Glen Oaks,CSH,1992
+Glen Oaks,DIS,13
+Glen Oaks,NOC,33
+Glen Oaks,UNK,45
+Glendale,CRD,319
+Glendale,CSH,635
+Glendale,DIS,2
+Glendale,NOC,5
+Gowanus,CRD,4443
+Gowanus,CSH,3052
+Gowanus,DIS,7
+Gowanus,NOC,22
+Gowanus,UNK,3
+Gowanus Houses,CRD,7074
+Gowanus Houses,CSH,4554
+Gowanus Houses,DIS,10
+Gowanus Houses,NOC,23
+Gowanus Houses,UNK,6
+Grant City,CRD,49
+Grant City,CSH,46
+Grasmere,CRD,90
+Grasmere,CSH,108
+Grasmere,NOC,1
+Gravesend,CRD,1340
+Gravesend,CSH,1684
+Gravesend,DIS,6
+Gravesend,NOC,13
+Gravesend,UNK,2
+Greenpoint,CRD,38090
+Greenpoint,CSH,28673
+Greenpoint,DIS,78
+Greenpoint,NOC,232
+Greenpoint,UNK,17
+Greenwich Village,CRD,200800
+Greenwich Village,CSH,134879
+Greenwich Village,DIS,211
+Greenwich Village,NOC,639
+Greenwich Village,UNK,133
+Grymes Hill,CRD,80
+Grymes Hill,CSH,61
+Grymes Hill,NOC,1
+Gun Hill Houses,CRD,200
+Gun Hill Houses,CSH,467
+Gun Hill Houses,DIS,5
+Gun Hill Houses,NOC,4
+Haberman,CRD,5214
+Haberman,CSH,8354
+Haberman,DIS,24
+Haberman,NOC,71
+Haberman,UNK,2
+Hamilton Beach,CRD,2139
+Hamilton Beach,CSH,1357
+Hamilton Beach,DIS,10
+Hamilton Beach,NOC,23
+Hamilton Beach,UNK,2
+Hamilton Heights,CRD,28422
+Hamilton Heights,CSH,31618
+Hamilton Heights,DIS,74
+Hamilton Heights,NOC,220
+Hamilton Heights,UNK,9
+Harlem,CRD,45774
+Harlem,CSH,49261
+Harlem,DIS,95
+Harlem,NOC,273
+Harlem,UNK,30
+Heartland Village,CRD,375
+Heartland Village,CSH,316
+Heartland Village,DIS,1
+Heartland Village,NOC,5
+Hell's Kitchen,CRD,241180
+Hell's Kitchen,CSH,248332
+Hell's Kitchen,DIS,356
+Hell's Kitchen,NOC,1035
+Hell's Kitchen,UNK,141
+High Bridge,CRD,2075
+High Bridge,CSH,3983
+High Bridge,DIS,11
+High Bridge,NOC,31
+Hillside,CRD,1016
+Hillside,CSH,1954
+Hillside,DIS,8
+Hillside,NOC,22
+Holland,CRD,193
+Holland,CSH,332
+Holland,DIS,2
+Holland,NOC,5
+Hollis,CRD,292
+Hollis,CSH,474
+Hollis,DIS,2
+Hollis,NOC,6
+Howard Beach,CRD,317
+Howard Beach,CSH,592
+Howard Beach,NOC,7
+Howard Beach,UNK,1
+Hunts Point,CRD,522
+Hunts Point,CSH,1045
+Hunts Point,DIS,2
+Hunts Point,NOC,7
+Inwood,CRD,7977
+Inwood,CSH,6855
+Inwood,DIS,24
+Inwood,NOC,53
+Inwood,UNK,5
+Jackson Heights,CRD,7620
+Jackson Heights,CSH,15823
+Jackson Heights,DIS,54
+Jackson Heights,NOC,139
+Jackson Heights,UNK,7
+Jamaica,CRD,1067
+Jamaica,CSH,2055
+Jamaica,DIS,10
+Jamaica,NOC,46
+Jamaica,UNK,1
+Kensington,CRD,5155
+Kensington,CSH,3910
+Kensington,DIS,9
+Kensington,NOC,43
+Kensington,UNK,2
+Kew Gardens,CRD,3017
+Kew Gardens,CSH,3602
+Kew Gardens,DIS,16
+Kew Gardens,NOC,30
+Kew Gardens,UNK,4
+Kings Bridge,CRD,1200
+Kings Bridge,CSH,1419
+Kings Bridge,DIS,3
+Kings Bridge,NOC,11
+Kingsbridge Heights,CRD,347
+Kingsbridge Heights,CSH,667
+Kingsbridge Heights,DIS,2
+Kingsbridge Heights,NOC,8
+Kips Bay,CRD,104616
+Kips Bay,CSH,77152
+Kips Bay,DIS,98
+Kips Bay,NOC,301
+Kips Bay,UNK,42
+Koreatown,CRD,350974
+Koreatown,CSH,389539
+Koreatown,DIS,454
+Koreatown,NOC,1257
+Koreatown,UNK,259
+Lambert Houses,CRD,178
+Lambert Houses,CSH,507
+Lambert Houses,DIS,1
+Lambert Houses,NOC,3
+Laurelton,CRD,233
+Laurelton,CSH,721
+Laurelton,DIS,1
+Laurelton,NOC,11
+Lefrak City,CRD,2906
+Lefrak City,CSH,4525
+Lefrak City,DIS,8
+Lefrak City,NOC,48
+Lefrak City,UNK,3
+Lincoln Harbor,CRD,4833
+Lincoln Harbor,CSH,2056
+Lincoln Harbor,DIS,22
+Lincoln Harbor,NOC,94
+Lincoln Harbor,UNK,4
+Lincoln Towers,CRD,238549
+Lincoln Towers,CSH,229726
+Lincoln Towers,DIS,236
+Lincoln Towers,NOC,745
+Lincoln Towers,UNK,150
+Linden Hill,CRD,2550
+Linden Hill,CSH,2631
+Linden Hill,DIS,10
+Linden Hill,NOC,19
+Linden Hill,UNK,1
+Linden-Park,CRD,46
+Linden-Park,CSH,29
+Linden-Park,NOC,1
+Little Italy,CRD,65592
+Little Italy,CSH,47479
+Little Italy,DIS,104
+Little Italy,NOC,265
+Little Italy,UNK,30
+Little Neck,CRD,228
+Little Neck,CSH,311
+Little Neck,DIS,1
+Little Neck,NOC,6
+Locust Manor,CRD,192
+Locust Manor,CSH,401
+Locust Manor,NOC,4
+Locust Point,CRD,71
+Locust Point,CSH,105
+Locust Point,NOC,1
+Loisaida,CRD,60805
+Loisaida,CSH,44622
+Loisaida,DIS,57
+Loisaida,NOC,191
+Loisaida,UNK,31
+Long Island City,CRD,25019
+Long Island City,CSH,23846
+Long Island City,DIS,140
+Long Island City,NOC,694
+Long Island City,UNK,24
+Lower East Side,CRD,82636
+Lower East Side,CSH,59857
+Lower East Side,DIS,106
+Lower East Side,NOC,320
+Lower East Side,UNK,42
+Malba,CRD,274
+Malba,CSH,373
+Malba,DIS,2
+Malba,NOC,6
+Manhattanville,CRD,18164
+Manhattanville,CSH,19574
+Manhattanville,DIS,55
+Manhattanville,NOC,129
+Manhattanville,UNK,9
+Marcus Garvey Village,CRD,325
+Marcus Garvey Village,CSH,822
+Marcus Garvey Village,DIS,6
+Marcus Garvey Village,NOC,15
+Marcy Houses,CRD,11171
+Marcy Houses,CSH,11982
+Marcy Houses,DIS,30
+Marcy Houses,NOC,76
+Marcy Houses,UNK,4
+Maspeth,CRD,1266
+Maspeth,CSH,2930
+Maspeth,DIS,13
+Maspeth,NOC,27
+Maspeth,UNK,2
+Melrose,CRD,799
+Melrose,CSH,1944
+Melrose,DIS,8
+Melrose,NOC,19
+Middle Village,CRD,1196
+Middle Village,CSH,2014
+Middle Village,DIS,12
+Middle Village,NOC,16
+Middle Village,UNK,1
+Middletown,CRD,255
+Middletown,CSH,297
+Middletown,DIS,2
+Middletown,NOC,2
+Midtown West,CRD,102475
+Midtown West,CSH,87298
+Midtown West,DIS,116
+Midtown West,NOC,298
+Midtown West,UNK,61
+Midwood,CRD,1967
+Midwood,CSH,2191
+Midwood,DIS,18
+Midwood,NOC,67
+Midwood,UNK,2
+Morningside Heights,CRD,79449
+Morningside Heights,CSH,72855
+Morningside Heights,DIS,107
+Morningside Heights,NOC,327
+Morningside Heights,UNK,39
+Morris Heights,CRD,731
+Morris Heights,CSH,1473
+Morris Heights,DIS,10
+Morris Heights,NOC,27
+Morris Heights,UNK,1
+Morris Park,CRD,531
+Morris Park,CSH,455
+Morris Park,DIS,1
+Morris Park,NOC,3
+Morrisania,CRD,493
+Morrisania,CSH,1401
+Morrisania,DIS,6
+Morrisania,NOC,12
+Mott Haven,CRD,2653
+Mott Haven,CSH,5682
+Mott Haven,DIS,31
+Mott Haven,NOC,153
+Murray Hill,CRD,324646
+Murray Hill,CSH,289910
+Murray Hill,DIS,401
+Murray Hill,NOC,1075
+Murray Hill,UNK,242
+New Dorp,CRD,60
+New Dorp,CSH,46
+New Dorp,UNK,1
+New Dorp Beach,CRD,34
+New Dorp Beach,CSH,21
+New Utrecht,CRD,716
+New Utrecht,CSH,900
+New Utrecht,DIS,5
+New Utrecht,NOC,7
+New Utrecht,UNK,1
+NoHo,CRD,103293
+NoHo,CSH,70294
+NoHo,DIS,131
+NoHo,NOC,373
+NoHo,UNK,54
+North Beach,CRD,60689
+North Beach,CSH,31797
+North Beach,DIS,119
+North Beach,NOC,362
+North Beach,UNK,59
+Oakland Gardens,CRD,558
+Oakland Gardens,CSH,648
+Oakland Gardens,DIS,2
+Oakland Gardens,NOC,5
+Oakland Gardens,UNK,1
+Old Germania Heights,CRD,1286
+Old Germania Heights,CSH,1778
+Old Germania Heights,DIS,4
+Old Germania Heights,NOC,9
+Old Germania Heights,UNK,1
+Old Town Station,CRD,29
+Old Town Station,CSH,35
+Old Town Station,DIS,1
+Ozone Park,CRD,630
+Ozone Park,CSH,1343
+Ozone Park,DIS,3
+Ozone Park,NOC,22
+Ozone Park,UNK,2
+Paerdegat,CRD,404
+Paerdegat,CSH,736
+Paerdegat,DIS,6
+Paerdegat,NOC,6
+Paerdegat,UNK,1
+Park Slope,CRD,18584
+Park Slope,CSH,12226
+Park Slope,DIS,37
+Park Slope,NOC,115
+Park Slope,UNK,10
+Park West Village,CRD,137455
+Park West Village,CSH,139565
+Park West Village,DIS,168
+Park West Village,NOC,499
+Park West Village,UNK,64
+Parkchester,CRD,820
+Parkchester,CSH,1583
+Parkchester,DIS,4
+Parkchester,NOC,13
+Parkside,CRD,795
+Parkside,CSH,1171
+Parkside,DIS,9
+Parkside,NOC,4
+Parkside,UNK,1
+Parkville,CRD,2448
+Parkville,CSH,2631
+Parkville,DIS,8
+Parkville,NOC,27
+Parkville,UNK,1
+Parsons Beach,CRD,441
+Parsons Beach,CSH,375
+Parsons Beach,DIS,4
+Parsons Beach,NOC,3
+Pelham Bay,CRD,350
+Pelham Bay,CSH,346
+Pelham Bay,NOC,3
+Pelham Bay,UNK,1
+Pleasant Plains,CRD,183
+Pleasant Plains,CSH,121
+Pleasant Plains,DIS,1
+Pleasant Plains,NOC,3
+Pleasant Plains,UNK,5
+Port Morris,CRD,1010
+Port Morris,CSH,1984
+Port Morris,DIS,3
+Port Morris,NOC,23
+Prospect Heights,CRD,14081
+Prospect Heights,CSH,9227
+Prospect Heights,DIS,19
+Prospect Heights,NOC,60
+Prospect Heights,UNK,10
+Queens Village,CRD,476
+Queens Village,CSH,644
+Queens Village,DIS,7
+Queens Village,NOC,15
+Red Hook,CRD,3970
+Red Hook,CSH,3389
+Red Hook,DIS,5
+Red Hook,NOC,21
+Red Hook,UNK,1
+Rego Park,CRD,3051
+Rego Park,CSH,3671
+Rego Park,DIS,12
+Rego Park,NOC,30
+Richmond,CRD,41
+Richmond,CSH,33
+Richmond Hill,CRD,1138
+Richmond Hill,CSH,2136
+Richmond Hill,DIS,16
+Richmond Hill,NOC,27
+Ridgewood,CRD,1324
+Ridgewood,CSH,1976
+Ridgewood,DIS,3
+Ridgewood,NOC,14
+Ridgewood,UNK,1
+Riverdale,CRD,1636
+Riverdale,CSH,1221
+Riverdale,DIS,11
+Riverdale,NOC,22
+Riverdale,UNK,4
+Rochdale Village,CRD,37503
+Rochdale Village,CSH,26207
+Rochdale Village,DIS,259
+Rochdale Village,NOC,925
+Rochdale Village,UNK,36
+Rose Hill,CRD,226123
+Rose Hill,CSH,165076
+Rose Hill,DIS,250
+Rose Hill,NOC,655
+Rose Hill,UNK,162
+Rosedale,CRD,808
+Rosedale,CSH,1447
+Rosedale,DIS,9
+Rosedale,NOC,13
+Rosedale,UNK,1
+Rossville,CRD,362
+Rossville,CSH,172
+Rossville,DIS,2
+Rossville,NOC,10
+Roy Reuther Houses,CRD,665
+Roy Reuther Houses,CSH,996
+Roy Reuther Houses,DIS,5
+Roy Reuther Houses,NOC,12
+Roy Reuther Houses,UNK,1
+Saint Albans,CRD,128
+Saint Albans,CSH,325
+Saint Albans,DIS,1
+Saint George,CRD,266
+Saint George,CSH,182
+Saint George,DIS,2
+Saint George,NOC,6
+San Juan Hill,CRD,239274
+San Juan Hill,CSH,263072
+San Juan Hill,DIS,295
+San Juan Hill,NOC,890
+San Juan Hill,UNK,186
+Schuylerville,CRD,237
+Schuylerville,CSH,382
+Schuylerville,DIS,2
+Schuylerville,NOC,4
+Seagate,CRD,116
+Seagate,CSH,102
+Seagate,DIS,1
+Seagate,NOC,2
+Sheepshead Bay,CRD,902
+Sheepshead Bay,CSH,1114
+Sheepshead Bay,DIS,5
+Sheepshead Bay,NOC,7
+SoHo,CRD,109974
+SoHo,CSH,87313
+SoHo,DIS,123
+SoHo,NOC,385
+SoHo,UNK,84
+South Slope,CRD,8732
+South Slope,CSH,6146
+South Slope,DIS,18
+South Slope,NOC,53
+South Slope,UNK,4
+South Street Seaport,CRD,18719
+South Street Seaport,CSH,13284
+South Street Seaport,DIS,28
+South Street Seaport,NOC,76
+South Street Seaport,UNK,13
+Southbridge Towers,CRD,80717
+Southbridge Towers,CSH,45335
+Southbridge Towers,DIS,66
+Southbridge Towers,NOC,228
+Southbridge Towers,UNK,48
+Spencer Estates,CRD,160
+Spencer Estates,CSH,191
+Spencer Estates,DIS,1
+Spencer Estates,NOC,3
+Springfield Gardens,CRD,115
+Springfield Gardens,CSH,324
+Springfield Gardens,DIS,1
+Springfield Gardens,NOC,4
+Spuyten Duyvil,CRD,2870
+Spuyten Duyvil,CSH,1924
+Spuyten Duyvil,DIS,5
+Spuyten Duyvil,NOC,14
+Stapleton,CRD,58
+Stapleton,CSH,61
+Stapleton,NOC,1
+Steinway,CRD,24306
+Steinway,CSH,27967
+Steinway,DIS,66
+Steinway,NOC,223
+Steinway,UNK,10
+Stuyvesant Town,CRD,86931
+Stuyvesant Town,CSH,59312
+Stuyvesant Town,DIS,73
+Stuyvesant Town,NOC,230
+Stuyvesant Town,UNK,32
+Sunnyside,CRD,10871
+Sunnyside,CSH,15244
+Sunnyside,DIS,78
+Sunnyside,NOC,387
+Sunnyside,UNK,9
+Sunnyside Gardens,CRD,15753
+Sunnyside Gardens,CSH,20731
+Sunnyside Gardens,DIS,32
+Sunnyside Gardens,NOC,143
+Sunnyside Gardens,UNK,7
+Terrace Heights,CRD,329
+Terrace Heights,CSH,463
+Terrace Heights,DIS,6
+Terrace Heights,NOC,2
+The Tides,CRD,61
+The Tides,CSH,87
+The Tides,DIS,1
+The Tides,NOC,1
+Throgs Neck,CRD,179
+Throgs Neck,CSH,234
+Throgs Neck,DIS,2
+Throgs Neck,NOC,1
+Tremont,CRD,1092
+Tremont,CSH,1707
+Tremont,DIS,5
+Tremont,NOC,13
+Tribeca,CRD,185310
+Tribeca,CSH,107257
+Tribeca,DIS,183
+Tribeca,NOC,530
+Tribeca,UNK,126
+Tudor City,CRD,366304
+Tudor City,CSH,345583
+Tudor City,DIS,462
+Tudor City,NOC,1285
+Tudor City,UNK,238
+Unionport,CRD,1261
+Unionport,CSH,1781
+Unionport,DIS,12
+Unionport,NOC,13
+University Heights,CRD,4808
+University Heights,CSH,4835
+University Heights,DIS,17
+University Heights,NOC,37
+University Heights,UNK,1
+University Village,CRD,77558
+University Village,CSH,57315
+University Village,DIS,92
+University Village,NOC,213
+University Village,UNK,46
+Upper East Side,CRD,514409
+Upper East Side,CSH,553067
+Upper East Side,DIS,661
+Upper East Side,NOC,1727
+Upper East Side,UNK,317
+Upper West Side,CRD,207166
+Upper West Side,CSH,210311
+Upper West Side,DIS,219
+Upper West Side,NOC,641
+Upper West Side,UNK,111
+Utopia,CRD,743
+Utopia,CSH,1012
+Utopia,DIS,6
+Utopia,NOC,10
+Utopia,UNK,1
+Van Nest,CRD,215
+Van Nest,CSH,370
+Van Nest,DIS,1
+Van Nest,NOC,3
+Wakefield,CRD,772
+Wakefield,CSH,575
+Wakefield,DIS,6
+Wakefield,NOC,14
+Wakefield,UNK,2
+Washington Heights,CRD,26561
+Washington Heights,CSH,19488
+Washington Heights,DIS,58
+Washington Heights,NOC,140
+Washington Heights,UNK,12
+Washington Square Village,CRD,136524
+Washington Square Village,CSH,105697
+Washington Square Village,DIS,142
+Washington Square Village,NOC,430
+Washington Square Village,UNK,95
+Waterside Plaza,CRD,22251
+Waterside Plaza,CSH,16318
+Waterside Plaza,DIS,15
+Waterside Plaza,NOC,81
+Waterside Plaza,UNK,11
+West Brighton,CRD,550
+West Brighton,CSH,791
+West Brighton,DIS,1
+West Brighton,NOC,6
+West Farms,CRD,450
+West Farms,CSH,1246
+West Farms,DIS,4
+West Farms,NOC,9
+West Farms,UNK,1
+West New Brighton,CRD,464
+West New Brighton,CSH,211
+West New Brighton,DIS,4
+West New Brighton,NOC,4
+Westerleigh,CRD,11549
+Westerleigh,CSH,6056
+Westerleigh,DIS,39
+Westerleigh,NOC,94
+Westerleigh,UNK,15
+Westgate Gardens,CRD,705
+Westgate Gardens,CSH,459
+Westgate Gardens,NOC,6
+Westgate Gardens,UNK,14
+Whitestone,CRD,309
+Whitestone,CSH,461
+Whitestone,DIS,1
+Whitestone,NOC,2
+Whitestone,UNK,1
+Williams Bridge,CRD,544
+Williams Bridge,CSH,561
+Williams Bridge,DIS,4
+Williams Bridge,NOC,4
+Williamsburg,CRD,72523
+Williamsburg,CSH,50739
+Williamsburg,DIS,115
+Williamsburg,NOC,320
+Williamsburg,UNK,24
+Woodhaven,CRD,644
+Woodhaven,CSH,1255
+Woodhaven,DIS,4
+Woodhaven,NOC,18
+Woodlawn,CRD,536
+Woodlawn,CSH,1105
+Woodlawn,DIS,6
+Woodlawn,NOC,18
+Woodside,CRD,7055
+Woodside,CSH,15508
+Woodside,DIS,36
+Woodside,NOC,150
+Woodside,UNK,3
+Wyckoff Gardens,CRD,10415
+Wyckoff Gardens,CSH,7228
+Wyckoff Gardens,DIS,20
+Wyckoff Gardens,NOC,181
+Wyckoff Gardens,UNK,7
+Yorkville,CRD,506182
+Yorkville,CSH,509160
+Yorkville,DIS,610
+Yorkville,NOC,1693
+Yorkville,UNK,312
