@@ -40,10 +40,16 @@ We sampled about 75 million rides (>= 30GB) to make the following analysis.
 <b>Payments & Tip </b>
 
   - Average in New York CRD - 0.20200465239853405
-  - Which neighborhood tips the most - make a histogram, possibly using visual map of NYC OK
-  - Which neighborhood uses credit card vs neighborhoods that don’t use credit cards - histogram, possibly using visual map of NYC
-  - Does time of the day affect tip?
+
+  Specific areas of interest:
+  - Tip percentage (avg, top)
+  - Credit card vs. cash
+  - Total fare
   
+  Factors to analyze:
+  - Neighborhood: does pick up area/ drop off area affect tip or payment methods (for the top list: only pick with more than 10,000 rides)
+  - Time of the day
+  - Distance travelled
   
 <b>Analytics</b>
 
